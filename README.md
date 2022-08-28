@@ -1,4 +1,5 @@
 #NOTE (8/28/2022): Pretty sure accounts get auto banned, im trying to work on that
+<br>
 Spotify.com Account Creator
 
 Listen, the code is super bad I dont really wanna hear it. I made this in about 10-20 minutes at like 3 in the morning, being half asleep.
